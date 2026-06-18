@@ -12,7 +12,7 @@ sudo apt install liballegro5-dev
 make -C code
 ./code/catland
 ```
-//colocar outros creditos de outros sprites (musicas tambem etc):
+
 ## Controles
 WASD : movimento 
 SHIFT: correr  
