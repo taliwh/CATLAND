@@ -14,46 +14,51 @@ make -C code
 ```
 //colocar outros creditos de outros sprites (musicas tambem etc):
 ## Controles
-WASD : movimento  
+WASD : movimento 
 SHIFT: correr  
 SPACE: pular  
 CNTRL: agachar  
 
-## Creditos dos assets
+## Arquivos:
+
+**main:** executa o loop principal e gerencia a máquina de estados do jogo.
+
+**cat**: funções relacionadas ao jogador.
+
+**land:** funções relacionadas ao mundo do jogo.
+
+**joystick:** controles do jogador.
+
+**states:** estados do jogo (menu, pausa, vitória, game over, etc.).
+
+**save:** sistema de salvamento.
+
+## Sprites 
+
 lava:
 https://www.nicepng.com/ourpic/u2w7r5y3w7q8a9u2_lava-pixel-lava-art-png/  
 
 background:
 https://screamingbrainstudios.itch.io/seamless-space-backgrounds?download  
 
-sprite do gato:
+gato:
 https://last-tick.itch.io/animated-pixel-cats-64x64  
 
-sprite das arvores chao mato: (espinhos e bandeira feitos pormim)
+ambiente:
 https://cainos.itch.io/pixel-art-platformer-village-props  
 
-inimigos (animais)
+inimigos (raposa e passaro):
 https://lyaseek.itch.io/miniffanimals  
 
-peixe:
+peixe (coletavel):
 https://itch.io/queue/c/5419577/pixel-gnome-packs?game_id=3340156&password=  
 
-## Creditos das musicas
-cat minecraft https://www.youtube.com/watch?v=WsTb8HYZd-U  
+## Músicas e Efeitos Sonoros
 
-pega o peixe: https://www.youtube.com/watch?v=SoZhpnTuQBo  
+gato levando dano (minecraft): 
+https://www.youtube.com/watch?v=WsTb8HYZd-U  
 
-explicacao oq cada um dos arquivo faz:  
+som do coletável: 
+https://www.youtube.com/watch?v=SoZhpnTuQBo  
 
-main: execucao o programa  
-
-cat: funcoes q envolvem o jogador  
-
-land: funcoes q envolvem o mundo do jogo (catland)  
-
-joystick: controle do jogador  
-
-states: eventos do jogo (menu, gameover, etc)  
-
-save:   
 
