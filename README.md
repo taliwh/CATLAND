@@ -14,7 +14,7 @@ make -C code
 ```
 
 ## Controles
-WASD : movimento 
+WASD : movimento  
 SHIFT: correr  
 SPACE: pular  
 CNTRL: agachar  
