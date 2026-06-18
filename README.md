@@ -61,7 +61,7 @@ https://itch.io/queue/c/5419577/pixel-gnome-packs?game_id=3340156&password=
 
 ## Músicas e Efeitos Sonoros
 
-gato levando dano (minecraft):  
+gato levando dano:  
 https://www.youtube.com/watch?v=WsTb8HYZd-U  
 
 som do coletável:  
