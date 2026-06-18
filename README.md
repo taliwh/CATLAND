@@ -33,32 +33,46 @@ CNTRL: agachar
 
 **save:** sistema de salvamento.
 
+**camera:** câmera que acompanha o jogador.
+
+**physics:** sistema de colisões e gravidade.
+
+**creatures:** funções relacionadas aos inimigos do jogo.
+
 ## Sprites 
 
-lava:
+lava:  
 https://www.nicepng.com/ourpic/u2w7r5y3w7q8a9u2_lava-pixel-lava-art-png/  
 
-background:
+background:  
 https://screamingbrainstudios.itch.io/seamless-space-backgrounds?download  
 
-gato:
+gato:  
 https://last-tick.itch.io/animated-pixel-cats-64x64  
 
-ambiente:
+ambiente:  
 https://cainos.itch.io/pixel-art-platformer-village-props  
 
-inimigos (raposa e passaro):
+inimigos (raposa e pássaro):  
 https://lyaseek.itch.io/miniffanimals  
 
-peixe (coletavel):
+peixe (coletável):  
 https://itch.io/queue/c/5419577/pixel-gnome-packs?game_id=3340156&password=  
 
 ## Músicas e Efeitos Sonoros
 
-gato levando dano (minecraft): 
+gato levando dano (minecraft):  
 https://www.youtube.com/watch?v=WsTb8HYZd-U  
 
-som do coletável: 
+som do coletável:  
 https://www.youtube.com/watch?v=SoZhpnTuQBo  
 
+música principal:  
+https://www.youtube.com/watch?v=DzFXGsRvSwA
+
+som da vitória:  
+https://www.youtube.com/watch?v=OyTDjr5gpE0  
+
+som do gameover:  
+https://www.youtube.com/watch?v=ZS7LAYY2fnE  
 
